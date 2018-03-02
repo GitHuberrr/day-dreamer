@@ -1,0 +1,13 @@
+一天的时间花在对建立ecplise 系统上
+三点：
+一：选对版本：是ecplise for javaee 不ecplise for java
+二 tomcat官网上下载下来后使用普通用户来解压，不是root用户，这样ecplise访问是不会出现权限不够
+三 在preference中设置server,tomcat,主要储存地址
+
+
+最后注意卸掉ecplise时，找到相关文件，不是删掉application中app，建议使用Mac清理软件找到文件所有的地址来手动清除（数据不是很大的时候）
+
+
+java web开发 
+day 1 html css
+day 2 jsp
